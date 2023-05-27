@@ -1,0 +1,16 @@
+#libraries for python programming
+pylint
+click
+black
+pytest
+pytest
+
+#libraries for python speech-recongintion app
+pyttsx4
+SpeechRecognition
+pyaudio
+pywhatkit
+wikipedia
+pyjokes
+yfinance
+goslate

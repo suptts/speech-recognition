@@ -6,9 +6,9 @@
 ดังนั้นวิธีปัองกันที่ดีที่สุดคือ freezed version ของ python และ libray ที่เราใช้
 
 วิธีการคือสร้างไฟล์   
-* 1. Setup python virtual environmentเพืื่อใช้ python specific version เช่น python 3.8, python 3.9 เป็นต้น
-* 2. Freeze version ของ library ที่ใช่ก่อนนำไป deploy บน production เสมอโดยใช้ requirements.txt ช่วย
-* สร้าง code (.py) มาเพื่อทดสอบว่า environment พร้อมใช้งานสำหรับ python development project เรา
+* Setup python virtual environmentเพืื่อใช้ python specific version เช่น python 3.8, python 3.9 เป็นต้น
+* Freeze version ของ library ที่ใช่ก่อนนำไป deploy บน production เสมอโดยใช้ requirements.txt ช่วย
+* สร้าง code (เช่น app.py) มาเพื่อทดสอบว่า environment พร้อมใช้งานสำหรับ python development project เรา
 
 ### Step 2: สร้าง scaffold
 ทำตามขั้นตอนใน step 1
